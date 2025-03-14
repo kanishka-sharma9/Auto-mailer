@@ -1,0 +1,11 @@
+crewai
+langgraph
+langchain_groq
+langchain_community
+google-search-results
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+tavily-python
+beautifulsoup4
+crewai_tools
