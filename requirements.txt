@@ -9,3 +9,5 @@ google-auth-oauthlib
 tavily-python
 beautifulsoup4
 crewai_tools
+tenacity
+urllib3
